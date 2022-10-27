@@ -1,6 +1,6 @@
 /*
 Question-
-   Moving Intervals
+   Moving Interval
 
 There are C cakes in a row, numbered from 1 to C. There are N children, each of whom have selected a consecutive set of cakes to eat. That is, Child i has decided to
 eat all the cakes from Si to Ei, end points inclusive. If there is a cake which appears in some two childrens' set, then they will fight because both of them want to eat
